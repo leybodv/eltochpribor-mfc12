@@ -1,0 +1,1 @@
+"C:\Program Files\Java\jre1.8.0_281\bin\java.exe" -cp .\bin;.\lib\jrxtx-1.0.1.jar mfc.Main
